@@ -14407,8 +14407,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\VSCodeWorkplace\\Sample_ASP.NET_Core_Projects\\PartyInvites\\Views\\Home\\ListResponses.cshtml",
+      "TargetPath": "Views\\Home\\ListResponses.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\VSCodeWorkplace\\Sample_ASP.NET_Core_Projects\\PartyInvites\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\VSCodeWorkplace\\Sample_ASP.NET_Core_Projects\\PartyInvites\\Views\\Home\\Thanks.cshtml",
+      "TargetPath": "Views\\Home\\Thanks.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14422,8 +14432,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\VSCodeWorkplace\\Sample_ASP.NET_Core_Projects\\PartyInvites\\Views\\Home\\Privacy.cshtml",
-      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FilePath": "d:\\VSCodeWorkplace\\Sample_ASP.NET_Core_Projects\\PartyInvites\\Views\\Home\\RsvpForm.cshtml",
+      "TargetPath": "Views\\Home\\RsvpForm.cshtml",
       "FileKind": "mvc"
     }
   ],
