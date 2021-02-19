@@ -7,16 +7,16 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Party!</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css"/>
 </head>
 
 <body>
-    <div>
-        <div>
-            We're going to have an exciting party.<br />
-            (To do: sell it better. Add pictures or something.)
-        </div>
+    <div class="text-center">
+        <h3>We're going to have an exciting party!</h3>
+        <h4>And YOU are invited!</h4>
+        <a class="btn btn-primary" asp-action="RsvpForm">RSVP Now</a>
     </div>
-    <a asp-action="RsvpForm">RSVP Now</a>
+    
 </body>
 
 </html>
